@@ -42,4 +42,3 @@ androidx-ui-text-google-fonts = { group = "androidx.compose.ui", name = "ui-text
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
 jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
-
